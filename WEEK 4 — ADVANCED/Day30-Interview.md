@@ -1,4 +1,4 @@
-## 🐧 Day 29 – Interview Practice
+## 🐧 Day 30 – Interview Practice
 
 ### 🎯 Goal
 
